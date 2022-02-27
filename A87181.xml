@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The priests patent cancelled, or the lay-mans answer, to the priests objections. Wherein the pretended grounds of the Ministery for the upholding of their arbitrary practises, over the consciences and estates of the people are answered, and refuted, by undeniable arguments from scripture and reason. / By William Hartley.</title>
+            <author>Hartley, William, of Stony-Stratford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87181</idno>
+            <idno type="STC">Wing H976</idno>
+            <idno type="STC">Thomason E542_17</idno>
+            <idno type="STC">ESTC R205973</idno>
+            <idno type="EEBO-CITATION">99865187</idno>
+            <idno type="PROQUEST">99865187</idno>
+            <idno type="VID">117424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87181)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117424)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E542[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The priests patent cancelled, or the lay-mans answer, to the priests objections. Wherein the pretended grounds of the Ministery for the upholding of their arbitrary practises, over the consciences and estates of the people are answered, and refuted, by undeniable arguments from scripture and reason. / By William Hartley.</title>
+                  <author>Hartley, William, of Stony-Stratford.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Dawson for Henry Cripps and are to be sold in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb 13 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion and politics --  Early works to 1800.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117424:1" rendition="simple:additions"/>
+            <p>THE Prieſts Patent <hi>CANCELLED,</hi> OR THE Lay-mans Anſwer, to the PRIESTS <hi>OBJECTIONS.</hi>
+            </p>
+            <p>Wherein the pretended grounds of the Miniſtery for the upholding of their Arbitrary practiſes, over the Conſciences and Eſtates of the People are anſwered, and refuted, by undeniable Arguments from ſcripture and Reaſon.</p>
+            <p>
+               <hi>By</hi> William Hartley.</p>
+            <q>
+               <bibl>
+                  <hi>Zach. 13.4.</hi>
+               </bibl>
+               <p>And it ſhall come to paſſe in that day the Prophets ſhall be aſhamed every one of his viſion, which he hath propheſied, neither ſhall they weare a rough garment to deceive. <hi>Verſ. 5.</hi> But ſhall ſay I am no Prophet, I am a husband man, for man taught me to keep Cattell from my youth.</p>
+               <p>
+                  <hi>Laicis licet curam de reformanda religione, &amp; eccleſia ſuſcipe<g ref="char:EOLhyphen"/>re, ceſtantibus, vel non facientibus officium, vel facultate deſtitutis Epiſcopis &amp; Eccleſiaſticis.</hi> Polan.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Dawſon</hi> for <hi>Henry Cripps</hi> and are to be ſold in Popes-head Alley. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117424:2"/>
+            <pb n="1" facs="tcp:117424:2"/>
+            <head>The Lay-mans Anſwer to the Prieſts Objections, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is no ſmall piece of Sophiſtry, that the e<g ref="char:EOLhyphen"/>nemies of the Goſpels Freedome have made uſe of; In putting terms of <hi>Odium</hi> and ſcandall upon the perſons and endea<g ref="char:EOLhyphen"/>vours of thoſe, who deſire to promote the Peoples Liberty: <hi>viz. Puritan, Round<g ref="char:EOLhyphen"/>head, Anababtiſt, Independent, &amp;c.</hi> to which may be added, that learned, deep, and moſt <hi>Authentick</hi> expreſſion (mentioned in the <hi>Scots</hi> Declaration) to wit <hi>Tub<g ref="char:EOLhyphen"/>preachers:</hi> and now as (if theſe names were worn thred bare) thoſe who ſtand for equall and impartiall Juſtice, are ſtigma<g ref="char:EOLhyphen"/>tized, and branded under the notion of <hi>Levellers;</hi> giving ma<g ref="char:EOLhyphen"/>ny groundleſſe, and improbable conſtructions upon their can<g ref="char:EOLhyphen"/>died endeavours tending unto publique ſafety: charging them with diſmounting <hi>Magiſtracy,</hi> overthrowing <hi>Miniſtery,</hi> de<g ref="char:EOLhyphen"/>nying <hi>Property:</hi> whereas their deſire is, that Magiſtrates rule by Law, and not by Will; Miniſters walk after Goſpel order, and not carry themſelves as <note n="*" place="margin">Many Mini<g ref="char:EOLhyphen"/>ſters write themſelves Re<g ref="char:EOLhyphen"/>ctors of ſuch a place.</note> lords over Gods Inheritance, and every man to enjoy his birth-right due unto him, by the laws of God and Nature: and no man to be (by Patent) vaſſalized, either in Perſon or Eſtate: And for a want of a right under<g ref="char:EOLhyphen"/>ſtanding, or ſerious conſideration, of the intentions of the per<g ref="char:EOLhyphen"/>ſons ſcandalized: Hence it is, that the People fight againſt their own Freedome, cry up a <hi>King,</hi> cry down a <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> ſpeak againſt the <hi>Army,</hi> Maligne the wel-affected, &amp;c. <hi>All</hi> which miſcheifes may be properly interpreted to flow from the generality of the Clergie, who through the power<g ref="char:EOLhyphen"/>full influence, and ſubtill inſinuation, they have gained upon
+<pb n="2" facs="tcp:117424:3"/>
+their hearers affections, doe bend the Peoples hearts to the crooked bow of their ſelf-concernments: What a great and croſſe wheele the Clergie have been to this Kingdome, is evi<g ref="char:EOLhyphen"/>dent by ſeverall ancient writers; omitting former preſidents, I referre you to the Reigne of <hi>Henry</hi> the eighth. In whoſe time, <hi>Cardinall Woolſey</hi> and the Clergie (the King not plea<g ref="char:EOLhyphen"/>ſing their humours) did diſavow the Majeſtracy of the Nation, pretending their Oath of Allegiance to the <hi>Pope;</hi> but <hi>Wool<g ref="char:EOLhyphen"/>ſey</hi> with <hi>Abbots, Priors, &amp;c.</hi> being rooted, the Clergie (ſee<g ref="char:EOLhyphen"/>ing themſelves brought into ſuch a premenirie) eaſily diſpen<g ref="char:EOLhyphen"/>ced with the Oath to the <hi>Pope,</hi> and ſware ſupremacy to King <hi>Henry:</hi> but at that time (ſaith my Author) the Clergie was in great danger to have been overthrown; And when the Biſhop of <hi>Rocheſter</hi> made a plauſable argument (grounded upon cuſtome) for continuance of their Spirituall Livings, a Gentleman of Grays Inn made anſwer, <note n="*" place="margin">See the large Chronicle of England pag. <hi>923.</hi>
+               </note> 
+               <hi>It was a cuſtome for Theeves to Rob upon Shooters Hill, ergo, they may Rob.</hi> The inſolency of the Biſhops againſt the ſupream authority, <hi>viz.</hi> (the <hi>Parliament</hi>) crowned with their own ruine is freſh in memory. (I forbeare to inſtance any thing from the Synod) But, how mutable in principles of Religion this generation of men have been, is notoriouſly manifeſted; I ſpeake not to prejudice any pious man (being fully perſwaded there hath been, and is, (even at this time) a competent number of god<g ref="char:EOLhyphen"/>ly Miniſters, who have, and will ſeale the Teſtimony of Truth with their Bloods) but in reference to the generality of the Clergie, whoſe Religion <note n="*" place="margin">Bee of any Religion rather then ſuffer, or looſe their bene<g ref="char:EOLhyphen"/>fices.</note> turneth (like Cocks of weather) with the ſtrongeſt Winde: In the time of <hi>Henry</hi> the eighth, the Clergie were Papiſts; In <hi>Edward</hi> the ſixth, Proteſtants; in Queen <hi>Mary</hi> Reigne, Papiſts; in Queen <hi>Elizabeths</hi> time Proteſtants, and now <hi>Epiſcopall, Presbyterian,</hi> for <hi>Church Government,</hi>
+               <note place="margin">Regis ad exem<g ref="char:EOLhyphen"/>plum, &amp;c.</note> 
+               <hi>&amp;c.</hi> which being conſidered, doth it not deep<g ref="char:EOLhyphen"/>ly concern all Chriſtian, (<hi>Berean</hi> like) to ſearch the Scripture for Truth and Knowledge; and no longer take their Religion upon truſt from their Miniſters: but, by a principle of light in themſelves from the Goſpel, may be able to render a reaſon of their own Faith. It is to be well approved of, for great men to entertain Chaplains in their Families; but it would add
+<pb n="3" facs="tcp:117424:3"/>
+to their Honours if (after religious <hi>Brookes</hi> example) they would become their own Mediators to God, to pray, give thankes for, and to inſtruct thoſe who are committed to their charge. And as we highly commend the <hi>Parliament</hi> in deſi<g ref="char:EOLhyphen"/>ring godly and able Miniſters to pray and preach before them: ſo likewiſe we ſhould heartily rejoyce if the Kingdomes Re<g ref="char:EOLhyphen"/>preſentatives would <note n="a" place="margin">Then the contention be<g ref="char:EOLhyphen"/>twixt M. <hi>Love</hi> and M. <hi>Dell,</hi> would be at an end.</note> themſelves (rather then by proxii) being beſt privy to their owne concernments, repreſent to God their owne condition; and although this may appeare <note n="b" place="margin">Mr. <hi>Bates</hi> interrupted Mr. <hi>Hartly</hi> in his exerciſe, refuſing either to heare or conferre, being aſſiſted with a company of rude, ignorant, and unworthy perſons, broke up the <hi>Meeting</hi> with diſorder.</note> grievous in the eyes of Miniſters, and perſons ignorant of the knowledge and priviledge in the Goſpel, yet it is a glorious and acceptable work in the eyes of God and all perſons, whoſe ends are for the advancement of Truth. Let's heare what can be ſaid againſt it.</p>
+            <p>
+               <hi>Jehovah</hi> (Lord Almighty) is the God of Order,<note place="margin">1 <hi>Object.</hi>
+               </note> and in all Ages, as there were Kings elected to execute the Magiſtrati<g ref="char:EOLhyphen"/>call Office in matters of Civill-Government: ſo there were perſons ſeparated and appointed, to exerciſe juriſdiction in things ſpirituall. Therefore the Miniſtery of the Church of <hi>England</hi> is grounded upon fundamentall authority.</p>
+            <p>We anſwer, God is not the Author of confuſion:<note place="margin">Reply<g ref="char:punc">▪</g>
+               </note> And in order to Government there was a Law given (Gods onely Vicegerent) unto which, all perſons were bound to yeeld ſubjection alike: Maſters of Families, eldeſt, or <note n="*" place="margin">Gen. 34.19.</note> Nobleſt of Tribes, (which were ſtiled Heads or Chiefe of the people) ſtand authoriſed in point of execution. As for <hi>Monarchs, Kings,</hi> or more properly <hi>Popes,</hi> when by your Clergy ren<g ref="char:EOLhyphen"/>dred over all perſons, and all cauſes, whether Eccleſiaſticall, or Civill ſupream Judges, and Moderators. Such creatures were never of <note n="*" place="margin">1 Sam. 8 7. Hoſea 13 10.</note> Divine inſtitution, their foundation, and continu<g ref="char:EOLhyphen"/>ance, being (<hi>ex ſuperabundanti</hi>) grounded upon conqueſt and tyranny. And as for perſons qualified with an outward power over their brethren in things Spirituall, we finde no ſuch thing; God being the God of all Spirits, and unto him ſhall all fleſh come. Is not the Sea a proper Continent for every Rivelet?</p>
+            <p>
+               <pb n="4" facs="tcp:117424:4"/>
+               <note place="margin">2 <hi>Object,</hi>
+               </note>There is a fallacy in <note n="a" place="margin">Dolus verſa<g ref="char:EOLhyphen"/>tur generalibus</note> generals; but I ſhall give you parti<g ref="char:EOLhyphen"/>cular inſtances warranted by Scripture even before the Flood. Whom doe you conclude <hi>Enos</hi> to be? The Scripture wit<g ref="char:EOLhyphen"/>neſſing, that in his dayes <note n="b" place="margin">Gen. 4.26.</note> men began to call on the name of the Lord. And doe we not read that <hi>Noah</hi> was a preacher of righteouſneſſe. If <hi>Noah</hi> was a Preacher, it will neceſſarily imply he had an Auditory: which being granted, this muſt follow, that all were not Preachers.</p>
+            <p>
+               <note place="margin">Reply.</note>It is true, <note n="c" place="margin">Commune non diſtinguit.</note> Univerſals yeeld no ſafe concluſions: Therefore we ſhall anſwer to your preſidents. Firſt to your <hi>Querie</hi> touching <hi>Enos,</hi> doubtleſſe he was a godly man, as alſo were the generality of people in his time: ſo intimate the words by you quoted, <hi>viz.</hi> at that time <note n="d" place="margin">There were ſix generations between <hi>Enos</hi> and <hi>Noah,</hi> till whoſe time we read not of the worlds A<g ref="char:EOLhyphen"/>poſtaſy.</note> 
+               <hi>men began to call on the name of the Lord;</hi> and <hi>Enos</hi> was one of thoſe men. Whe<g ref="char:EOLhyphen"/>ther <hi>Noah</hi> preached righteouſneſſe to the world, either by per<g ref="char:EOLhyphen"/>fecting of the Ark, or by way of Exhortation, or both, is not much queſtionable: This being moſt cleare, that thoſe which called upon the Lord (with <hi>Enos</hi>) were preſerved; and thoſe who refuſed to be preachers (like <hi>Noah</hi>) of Gods righteouſ<g ref="char:EOLhyphen"/>neſſe, were deſtroyed. And doubtleſſe, if <hi>Noah,</hi> and <hi>Lot,</hi> had had more fellowes (in their generations) thoſe moſt uſefull ſervants Fire and Water, had never proved <hi>Sodoms,</hi> and the Worlds implacable maſters.</p>
+            <p>
+               <note place="margin">3 <hi>Object.</hi>
+               </note>But what ſay you to <hi>Melchizedeck?</hi> was not he a man in order of the Prieſthood? approved by God, juſtified by man, for unto him faithfull <hi>Abraham</hi> paid his Tenths. Now if all be Prieſts alike, and no diſtinction in perſons, why did not <hi>A<g ref="char:EOLhyphen"/>braham</hi> receive Tythes of <hi>Melchizedeck,</hi> according as <hi>Mel<g ref="char:EOLhyphen"/>chiſedeck</hi> did of <hi>Abraham?</hi>
+            </p>
+            <p>
+               <note place="margin">Reply.</note>We give our judgement, this <hi>Melchizedeck</hi> was not man, but God, as is manifeſted, <hi>Heb.</hi> 7. by his Title, or Motto, that is to ſay, <hi>King of Righteouſneſſe, King of Peace.</hi> And in all Ages (ſince the world began) we have not read of ſuch a King as <hi>Righteouſneſſe,</hi> or ſuch a Kingdome as <hi>Peace.</hi> And that this <hi>Melchiſedeck</hi> was God, or the very Chriſt, is cleare from <hi>Heb.</hi> 7 3. <hi>Without Father, without mother,</hi> without deſcent (or pedegree) <hi>having neither beginning of dayes, nor end of life,</hi> but made like unto the Sonne of God, abideth a Prieſt for ever.</p>
+            <p>
+               <pb n="5" facs="tcp:117424:4"/>This is a manifeſt contradiction of the old and new Teſta<g ref="char:EOLhyphen"/>ment: For if this <hi>Melehiſedeck</hi> had been God,<note place="margin">4 <hi>Object.</hi>
+               </note> then <hi>Abraham</hi> had preſently died: For <hi>no man can ſee God and live,</hi> and you know <hi>Abraham</hi> continued long after time. Neither could he be Chriſt, being not born till thouſands of yeares afterwards. <hi>When the fulneſſe of time was come, God ſent his Son, &amp;c.</hi>
+            </p>
+            <p>No contradiction at all,<note place="margin">Reply.</note> (onely your miſpriſion) be it gran<g ref="char:EOLhyphen"/>ted, God as he is in his Eſſence, and incomprehenſible glory, cannot be ſeen or comprehended by any mortall eye, yet God in his diſpenſations and manifeſtations, is both ſeen and com<g ref="char:EOLhyphen"/>prehended of the creature. What ſay you to the burning Buſh in the Wilderneſſe that ſpake unto <hi>Moſes,</hi> and the ſtill Voyce that talked with <hi>Elijah,</hi> Doe not the Scriptures ſay, God was in the <hi>Buſh,</hi> and God was in the <hi>Voyce?</hi> which the Author to the <hi>Hebrewes</hi> lively ſets forth, <hi>Hebr.</hi> 1.1. <hi>God</hi> (ſaith he) <hi>who at ſundry times, and after divers manners ſpake unto the Fathers by the Prophets, hath in theſe dayes ſpoken unto us by his Sonne, who is the brightneſſe of his Fathers glo<g ref="char:EOLhyphen"/>ry, and the expreſſe image of his perſon;</hi> which image we in<g ref="char:EOLhyphen"/>terpreting according to the myſtery of the Goſpel, Jeſus Chrtſt is rendred to be God manifeſted in the fleſh. This con<g ref="char:EOLhyphen"/>ſidered, we have ground to beleeve that <hi>Melchiſedeck</hi> which appeared unto <hi>Abraham</hi> in the ſhape or form of a man, was Chriſt: And his own words (at a conference with the Jews) ſeem to imply as much, viz. <hi>Abraham ſaw my dayes and re<g ref="char:EOLhyphen"/>joyced.</hi>
+            </p>
+            <p>It's granted <hi>Melchiſedeck</hi> was a Type of Chriſt,<note place="margin">5 <hi>Object.</hi>
+               </note> and ſo the Scripture quoted by you ſaith, <hi>Hebr.</hi> 7.3. <hi>like unto the Son of God,</hi> but you know every <note n="e" place="margin">Omne ſimile non eſt idem. Reply.</note> like is not the ſame.</p>
+            <p>We underſtand a Type to be a Form, or Image, repreſenting ſomewhat that is not properly in its ſelfe, or a ſhadow which vaniſheth upon the apparition of the ſubſtance: Now if this <hi>Melchizedeck</hi> was a Type, or repreſentative, Chriſt (the re<g ref="char:EOLhyphen"/>preſented) being come, this type is of no validity, but (as minded before) this <hi>Melchiſedeck</hi> abideth for ever: and it was the apex or height of Chriſts dignity to be ſtiled a Prieſt of the ſame Order. And for your Schoole-Maxime, Every like is not the ſame; in the Scripture ſenſe the words <hi>ſimilis</hi> and
+<pb n="6" facs="tcp:117424:5"/>
+               <hi>ſicut (vel aut quaſi, like</hi> or <hi>as</hi>) are of propinquity, <hi>Iohn</hi> 1.14. <hi>We beheld his glory as the glory of the onely begotten Son of God,</hi>
+            </p>
+            <p>
+               <note place="margin">6. <hi>Object.</hi>
+               </note>But if <hi>Melchizedeck</hi> were God or Chriſt, why did he take Tythes? God or Chriſt hath need of <hi>Abrahams</hi> ſubſtance, but this <hi>Melchizedeck</hi> (as you muſt confeſſe) did really receive Tenths of <hi>Abraham;</hi> if ſo, to what end or uſe did he take them, except for conformation of a Prieſt-hood.</p>
+            <p>
+               <note place="margin">Reply.</note>Wee Anſwer, That the Tythe which <hi>Melchizedeck</hi> re<g ref="char:EOLhyphen"/>ceived of <hi>Abraham,</hi> was not the tenth of encreaſe of Cattell, Corn, Wine, Oyle, &amp;c. but a Tenth part of the prize that he had obtained in overthrow of the foure Kings that took his Nephew <note n="*" place="margin">
+                  <hi>Gen.</hi> 8.18.</note> 
+               <hi>Lot</hi> priſoner: Moreover <hi>Melchizedeck</hi> was not a Prieſt to <hi>Abraham,</hi> for <hi>Abraham</hi> was his own Prieſt to offer up his own ſacrifices, as may be inſtanced in the ſtretching forth his hand to ſlay <hi>Iſaac:</hi> and to your <hi>quaere,</hi> to what end, or what uſe <hi>Melchizdeck</hi> made of the Tenths received, I ſhall reſolve you when I know after what manner the three Angels did eat of <hi>Sarahs</hi> Milk, Butter, and dreſſed Calfe. How in<g ref="char:EOLhyphen"/>conſiſtent then to Scripture or Reaſon is your argument for Tythes or Prieſt-hood from any preſident of <hi>Melchizedeck.</hi>
+            </p>
+            <p>
+               <note place="margin">7. <hi>Object.</hi>
+               </note>While our fathers <hi>Abraham, Iſaac,</hi> and <hi>Jacob</hi> were in a ſtrange land, there could be no ſettled Prieſthood; but when the Iſraelites were an entire People, then <hi>Aaron</hi> and his ſeed were appointed to teach the People, no other tribe permitted to that office; and doe you not read of Gods Judgement in<g ref="char:EOLhyphen"/>flicted upon <hi>Corah, Dathan</hi> and <hi>Abiron,</hi> for meddling with the Prieſts Office, a faire warning for Lay-men to take heed how they thruſt themſelves into the office of the Miniſtery.</p>
+            <p>
+               <note place="margin">Reply.</note>Wee anſwer, That the Ceremoniall and Typicall part of Gods worſhip was appointed to the Leviticall Prieſt-hood, as the offering up of ſacrifices of Sheep, Goates, or the like; for ſin offerings, heave offerings, &amp;c. But the reall and ſub<g ref="char:EOLhyphen"/>ſtantiall part of Gods worſhip, as Prayer for pardon of ſinne, Praiſes for mercies received, Preaching or declaring the good<g ref="char:EOLhyphen"/>neſſe of God one to another, &amp;c. was referred to all per<g ref="char:EOLhyphen"/>ſons indifferently: as may appear by the deſire of <hi>Moſes,</hi> when he was acquainted that others beſides the Prieſts taught
+<pb n="7" facs="tcp:117424:5"/>
+in the Camp, would God (ſaith he) that all the Lords people were Prophets: and for your preſident in the puniſhment of <hi>Corah, Dathan</hi> and <hi>Abiron,</hi> (we conceive) it had relation to their contempt and mutinie againſt <hi>Moſes</hi> and <hi>Aaron,</hi> (as publike Officers) and not meerly or ſimply for offering Sa<g ref="char:EOLhyphen"/>crifice: As may be inſtanced, that it is lawfull at a bar of ju<g ref="char:EOLhyphen"/>ſtice for all ſtanders by to go along with the Majeſtrate in con<g ref="char:EOLhyphen"/>demning a Malefactor, but it is a high offront to juſtice for any there preſent to pull the Judge from the ſeat of Judicature to give ſentence themſelves: you may conſider the altar erect<g ref="char:EOLhyphen"/>ed (for a good end) by the <hi>Rubenites, Gaddites</hi> and half the tribe of <hi>Manaſſeth</hi> is not condemned; and <hi>Manoah</hi> (no Levite but an <hi>Ephramite</hi>) his Sacrificing a Kid upon a rock was by God approved: and for your prerogative diſtinction of Laity and Clergie, the Scripture doth hold forth no ſuch thing, God having made of one blood all mankinde, Jew and Gentile, Male and Female, Bond and Free, are all one in Chriſt;<note place="margin">
+                  <hi>Acts</hi> 10.</note> and wee much wonder at that ſelf-conceited expreſſion in your formall prayer, <hi>viz.</hi> the Tribe of <hi>Levi</hi> the lot of thine own inheritance: ſeeing God is no reſpecter of perſons; but in every Nation he that feareth him, and worketh righteouſ<g ref="char:EOLhyphen"/>nes is accepted. And to your caveat of Lay-men entering in<g ref="char:EOLhyphen"/>to the miniſtery (if you mean preaching and declaring the word of God) be it anſwered, we have as good right to that imployment or (function) as to the lands we hold, or cloathes we weare.</p>
+            <p>But you may underſtand Chriſt ſpeaking to the Tribe of <hi>Le<g ref="char:EOLhyphen"/>vi,</hi> Yee tythe Mint and Commin,<note place="margin">6. <hi>Object.</hi>
+               </note> and neglect greater mat<g ref="char:EOLhyphen"/>ters, theſe things yee ought to have done and &amp;c. here Chriſt approved of a Prieſt-hood to receive Tythes: now if ſome had power to receive, others were appointed to pay; ſo it will neceſſarily follow, there is to be a diſtinction in perſons, ſome miniſters to beare rule in the Church and teach,<note place="margin">Reply.</note> others to heare and yeeld ſubjection to their government.</p>
+            <p>Wee anſwer, That Chriſt commanded obedience to the Le<g ref="char:EOLhyphen"/>viticall Prieſt-hood, and approved the paying and receiving of Tythes: but the time when, and end for all duties comman<g ref="char:EOLhyphen"/>ded by God of the Creature is to be <note n="*" place="margin">Taking ſcri<g ref="char:EOLhyphen"/>pture out of place, maketh this concluſion and diviſion a<g ref="char:EOLhyphen"/>mongſt us.</note> conſidered, as it may be
+<pb n="8" facs="tcp:117424:6"/>
+inſtanced, at the inſtitution of Circumciſion, in the time of the law, it is written, every male which is not circumſized, that ſoule ſhall be cut off from his people: but in the time of the Goſpel, it is ſaid, If yee be circumſized, Chriſt ſhall profit you nothing: ſo then, you are to conſider the time when the Leviti<g ref="char:EOLhyphen"/>call Prieſt-hood was commanded, and you ſhall finde it to be before Chriſt took <hi>Aarons</hi> Office: for when he offered up himſelf (once for all) then the Leviticall Prieſt-hood had an <note n="a" place="margin">Chriſt when he was upon the croſſe ſaid all was finiſhed, and then gave up the ghoſt.</note> end: and for your better ſatisfaction, take the Apoſtles argument, <hi>Heb.</hi> 7.11. if perfection were by the Leviticall Prieſt-hood; what further need was there that another Prieſt ſhould riſe after the order of <hi>Melchizedeck,</hi> and not be called after the order of <hi>Aaron:</hi> the next verſe thus, <hi>If the Prieſt<g ref="char:EOLhyphen"/>hood be changed, there is made a</hi> 
+               <note n="b" place="margin">Mark our liu<g ref="char:EOLhyphen"/>cy woolſie Cler<g ref="char:EOLhyphen"/>gie, miniſters of the Goſpel, yet exact tythe ac<g ref="char:EOLhyphen"/>cording to the Levitical prieſt<g ref="char:EOLhyphen"/>hood.</note> 
+               <hi>neceſsity of a change of the Law:</hi> that is, if Chriſt (the onely High-prieſt) hath made a perfect reconciliation, and attonement unto God by his own blood, there needeth no more ſacrifice for ſin, and that law which did enjoyn the people to bring offerings or pay tythes, for upholding of thoſe typicall ſacrifices; is now abroga<g ref="char:EOLhyphen"/>ted: for you are to take notice, that the end of the inſtitution of Tythes was more properly for the maintenance of a daily ſacrifice, and not ſolely or ſimply for the Prieſts profit, as you may read <hi>Numb.</hi> 18.26. <hi>When yee take tithes of the children of Iſrael (which I have given you from them for your inheritance) then yee ſhall offer a</hi> 
+               <note n="c" place="margin">When the Parſon takes a tythe Calf, Lamb, Pig, Gooſe, &amp;c. it fils his belly or his purſe.</note> 
+               <hi>heave offering for the Lord:</hi> It was a complaint upon <note n="d" place="margin">1 <hi>Sam.</hi> 2.29.</note> 
+               <hi>Elies</hi> ſons, that they had made themſelves fat with the offerings of the people. So then, it is evident Chriſt is our High-prieſt, and all the Saints of God are par<g ref="char:EOLhyphen"/>takers of his Prieſt-hood, 1 <hi>Pet.</hi> 2.9. and have all intereſt alike (by him) to offer up <note n="e" place="margin">
+                  <hi>Rom.</hi> 12.1.</note> ſpirituall ſacrifices unto God.</p>
+            <p>
+               <note place="margin">9 <hi>Object.</hi>
+               </note>But what ſaith S<hi rend="sup">t</hi> 
+               <hi>Paul,</hi> 1 <hi>Cor.</hi> 12.28. <hi>God ſent ſome to be A<g ref="char:EOLhyphen"/>poſtles, ſome to be Prophets, ſome to be Teachers: Are all A<g ref="char:EOLhyphen"/>poſtles?</hi>
+               <note place="margin">1 <hi>Tim.</hi> 4.14.</note> 
+               <hi>Are all Prophets? Are all Teachers?</hi> And it was charged <hi>Timothy,</hi> not to neglect the gift that was given him by laying on of hands of the Preſbytery, that is to ſay, ordi<g ref="char:EOLhyphen"/>nation of Miniſters.</p>
+            <p>
+               <note place="margin">Reply.</note>We anſwer, that the Apoſtle in the chapter quoted, did in<g ref="char:EOLhyphen"/>form the <hi>Corinthians</hi> of the diverſity of gifts, or ſeverall ope<g ref="char:EOLhyphen"/>rations
+<pb n="9" facs="tcp:117424:6"/>
+of Gods Spirit, as not hereditary to any particular per<g ref="char:EOLhyphen"/>ſons, or ſociety of men, and that in the Church, or among the Saints, all are not alike gifted. For, ſaith he, <hi>All cannot pro<g ref="char:EOLhyphen"/>pheſie,</hi> all are not qualified with abilities to teach, all have not the gift of healing, &amp;c. Its your duty, as <hi>verſ.</hi> 31. to covet ear<g ref="char:EOLhyphen"/>neſtly the beſt gifts, that is, labour to become Apoſtles, covet to propheſie, deſire to be able to teach; intimating that it was a great fault to be alwayes learning, and yet never come to perfection. For the gift that <hi>Timothy</hi> was commanded not to neglect, is propheſying, and impoſition or laying on of hands (as we give our judgement) was uſed either in point of confirmation, or healing, as may be inſtanced, <hi>James</hi> 5.16. <hi>If any be ſick let him ſend for the Elders of the Church, &amp;c.</hi> and if the Tranſlator had put in <hi>Elderſhip</hi> for <hi>Presbytery</hi> (w<hi rend="sup">ch</hi> is the proper ſignification of the word from the originall)<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> We might have underſtood ſomething of the religion in the Kirk of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and we wonder at the quaint ſpeech of your Church Re<g ref="char:EOLhyphen"/>formers, viz. <hi>Orthodoxall, Canonicall, Claſſicall, Provinciall,</hi> (though ſignificant) yet not Goſpel, or vernaculer words: It is deſired that the Clergy would uſe plain Scripture language, and not amuſe the peoples underſtanding by obſcure and <hi>AE<g ref="char:EOLhyphen"/>nigmative</hi> expreſſions</p>
+            <p>To deny ordination is to give way to confuſion,<note place="margin">10 <hi>Object.</hi>
+               </note> and to o<g ref="char:EOLhyphen"/>pen a doore for the ſpreading of all errors, hereſies, and ſchiſme, every Mechanick f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llow will be ſtepping up into a pulpit to vent his own fancy. Doth not the Apoſtle <hi>Peter</hi> tell you, that unlearned men pervert the Scriptures to their owne de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>We anſwer, that graces and abilities from God do ordaine,<note place="margin">Reply,</note> conſtitute, and create a Miniſter, not an Univerſity, hand pa<g ref="char:EOLhyphen"/>tent, or licence of the creature: For, ſaith the Apoſtle,<note place="margin">1 Tim. 1.12</note> 
+               <hi>I thanke Ieſus Chriſt our Lord, who hath enabled me, for that he coun<g ref="char:EOLhyphen"/>ted me faithfull, in putting me into the Miniſtery:</hi> to w<hi rend="sup">ch</hi> you may add that expreſſion, <hi>Gal.</hi> 1.11. <hi>I teſtifie unto you brethren, that the Goſpel which was preached of me, is not after man, for I neither received it of man, neither was I taught it, but by revelation of Ieſus Chriſt.</hi> To your caution touching the ſprea<g ref="char:EOLhyphen"/>ding of errors, hereſies, &amp;c. we anſwer, The light of truth is
+<pb n="10" facs="tcp:117424:7"/>
+able to overthrow the darkneſſe of error; one burning lamp is able to convince the vanity of a thouſand dark Lanthornes. No <hi>ignis fatuus</hi> can abide the Sunne. And for Mechanick men preaching, if you mean Tradeſmen, or Artificers, <hi>viz.</hi> Carpen<g ref="char:EOLhyphen"/>ters, Fiſhermen, Tentmakers, ſuch were the Apoſtles of Chriſt, and no diſparagement to their <hi>Cloth</hi> (as you call it) or Mini<g ref="char:EOLhyphen"/>ſtery: Nay, the Apoſtle layes an injunction upon the Mini<g ref="char:EOLhyphen"/>ſters to labour, from a preſident of himſelf, <hi>Acts</hi> 23.24. <hi>Theſe hands have miniſtred to my neceſſities, I have ſhewed you all things, that ſo labouring you ought to ſupport the weake, and remember the words of the Lord Ieſus, how he ſaid, It was a more bleſſed thing to give then to receive.</hi> And for thoſe un<g ref="char:EOLhyphen"/>learned men that pervert the Scriptures, are ſuch who are untaught and unlearned in Chriſt, the Scriptures quoted having no relation to humane learning in the tongues: For in all ages the greateſt Scholars were moſt ignorant of Ch<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſt, and the poore and ſimple receive the Goſpel. Be it granted, that ſome through ignorance (or miſpriſion) have perverted the Scripture; becauſe ſome tender eyes have been prejudiced by the Sunne, <hi>Ergo,</hi> it is not good to behold the light of the Sunne at all.</p>
+            <trailer>
+               <hi>FINIS.</hi>
+            </trailer>
+            <epigraph>
+               <q>
+                  <l>Nihil &amp; natum &amp; perfectum,</l>
+                  <l>Gloria in excelſis Deo, ſit ſalvus populus.</l>
+               </q>
+            </epigraph>
+            <pb facs="tcp:117424:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
